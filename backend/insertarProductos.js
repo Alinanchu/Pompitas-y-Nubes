@@ -192,6 +192,24 @@ const productos = [
     selectedColor: 'gray',
     selectedSize: '12-18 meses',
     description: 'Chupones para estimulacion.'
+  },
+  {
+    id: 10,
+    name: 'Conjunto Estelar Bebé Aventurero',
+    category: 'Conjuntos',
+    price: 320,
+    originalPrice: null,
+    discount: 0,
+    badge: 'new',
+    badgeText: 'Nuevo',
+    limited: false,
+    rating: 4.7,
+    reviewCount: 18,
+    stock: 22,
+    image: 'https://m.media-amazon.com/images/I/71jEk6QrFkL._AC_SY879_.jpg',
+    selectedColor: 'yellow',
+    selectedSize: '9-12 meses',
+    description: 'Conjunto de dos piezas con diseño estelar. Ideal para el día a día de tu pequeño explorador.'
   }
 ];
 
