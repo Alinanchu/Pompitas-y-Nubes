@@ -195,8 +195,8 @@ const productos = [
   },
   {
     id: 10,
-    name: 'Conjunto Estelar Bebé Aventurero',
-    category: 'Conjuntos',
+    name: 'Talco para bebe',
+    category: 'Accesorios',
     price: 320,
     originalPrice: null,
     discount: 0,
