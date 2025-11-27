@@ -1,0 +1,15 @@
+/* index.css */
+.slick-slider {
+  margin: 20px auto;
+  max-width: 90%;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: #d63384; /* Color de las flechas */
+  font-size: 24px;
+}
+
+.slick-dots li button:before {
+  color: #d63384; /* Color de los puntos */
+}
